@@ -99,7 +99,7 @@ docker run -d --name jenkins \
 
 ## 📊 Jenkins Dashboard
 
-![Jenkins Dashboard](images/jenkins-dashboard.png)
+![Jenkins Dashboard]([images/jenkins-dashboard.png](https://github.com/sipahtsanan/jenkins-shared/blob/main/jenkins-dashboard.png))
 
 ---
 
